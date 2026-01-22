@@ -67,3 +67,14 @@ SQL: MySQL
 Power BI
 
 Excel
+
+👤 Author
+
+Md Mahabub Alam Finance Graduate | Data Analysis Enthusiast 📍 Bangladesh
+
+🔗 GitHub: https://github.com/mahabubalam-gbs
+
+⭐ If you find this project useful, feel free to star the repository!
+
+## 📸 Project Screenshots
+![Mahabub The Analyst Portfolio](images/portfolio_website.png)
